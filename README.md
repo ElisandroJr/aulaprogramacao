@@ -1,4 +1,4 @@
 # aulaprogramacao
-## prof. Pablo Ramon 
+## Prof. Pablo Ramon 
 ### uc - programação de soluções computacionais 
 Meu primeiro repositório
